@@ -1,5 +1,9 @@
-.first-section {
+.main-bg-color {
   background-color: #ea2225 !important;
+}
+
+.navbar {
+  z-index: 1000 !important;
 }
 
 .align-items-center .card-body img {
